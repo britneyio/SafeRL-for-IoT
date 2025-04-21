@@ -1,0 +1,8 @@
+- OS: Linux-6.10.14-linuxkit-x86_64-with-glibc2.35 # 1 SMP Thu Mar 20 16:32:56 UTC 2025
+- Python: 3.9.22
+- Stable-Baselines3: 2.3.2
+- PyTorch: 2.2.0+cu121
+- GPU Enabled: False
+- Numpy: 1.23.0
+- Cloudpickle: 2.2.1
+- Gymnasium: 0.29.1
